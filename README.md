@@ -1,6 +1,10 @@
 # 💻 Projeto Banco Digital – Backend Python com POO
 Este projeto foi desenvolvido como parte do Curso de Backend Python com Programação Orientada a Objetos (POO) oferecido pela DIO em parceria com a Vivo. O objetivo principal foi integrar os conceitos de POO e banco de dados relacionais em um sistema bancário funcional e modular.
 
+# 👤 Grupo
+Davi Roberto Machado Vila  
+1012023200120
+
 # 🧠 Objetivos do Projeto
 Aplicar os fundamentos da Programação Orientada a Objetos:
 Abstração, Encapsulamento, Herança e Polimorfismo.
