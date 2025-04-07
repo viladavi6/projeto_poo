@@ -64,7 +64,8 @@ Criação de interfaces gráficas com Python
 # 📁 Clone o repositório
 git clone https://github.com/viladavi6/projeto_poo
 
-
+# 📽️ Video de Apresentação
+https://www.youtube.com/watch?v=bAOTCs6u9ZA
 
 # Execute o app
 python app.py
